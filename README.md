@@ -1,4 +1,4 @@
-# RISC-V
+# RISC-V Single Cycle Processor
 RISC-V CPU with R,I,S,B &amp; J instruction set implemented in Verilog HDL.
 ## **Supported instruction set:**
 -	**R-Type:** add, or, sub, and
